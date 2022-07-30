@@ -1,6 +1,10 @@
 # NIRF-Score-prediction-and-analysis
 
 
+<p align = "justify">
+An efficient web app for NIRF score prediction.
+  
+  
 ## Table of Content
 
 * [About The Project](#1)

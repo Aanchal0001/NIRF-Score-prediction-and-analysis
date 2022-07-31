@@ -84,9 +84,25 @@ The steps of building the project involves :
 </p>
 
 <p align = "justify">
-###Methodology for Multiple Linear Regression Model-
 
-![](images/model.png)
+- ### Methodology for Multiple Linear Regression Model -
+   
+</p>
+
+<p align="center" > 
+
+  <img  src="images/model.png">
+</p>
+
+<p align = "justify">
+
+- ### Methodology of WebApp -
+   
+</p>
+
+<p align="center" > 
+
+  <img  src="images/webapp.png">
 </p>
 
 ## Result and Analysis <a id = "5"></a>

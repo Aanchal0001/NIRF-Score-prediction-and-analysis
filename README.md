@@ -12,10 +12,10 @@ An efficient web app for NIRF score prediction.
 * [NIRF Dataset Description](#3)
 * [Proposed approach and model](#4)
 * [Result and Analysis](#5)
-* [Conclusion and future scope](#6)
+* [Future scope](#6)
 * [Deployment](#7)
 * [Reference](#8)
-* [Appendix](#9)
+
 
   
 ## About the Project <a id = "1"></a>
@@ -64,12 +64,29 @@ The dataset is downloaded from the official website of National Institute Rankin
   
 And the dataset used in this model contains **200** rows.
 
+
+![](images/dataset.png)
+
+
 </p>
 
 
 ## Proposed approach and model <a id = "4"></a>
 <p align = "justify">
 
+The steps of building the project involves :
+
+1. **Data Acquisition** : This includes the collection of valid dataset.
+2. **Data Cleaning** : This includes handling of missing values, erroneous data and noisy data.
+3. **Building the applicable regressor models.**
+4. **Analysis of the results of different models on the basis of predicted values for testing tuples.**
+5. **Building the web app using the chosen model.**
+</p>
+
+<p align = "justify">
+###Methodology for Multiple Linear Regression Model-
+
+![](images/model.png)
 </p>
 
 ## Result and Analysis <a id = "5"></a>
@@ -77,7 +94,7 @@ And the dataset used in this model contains **200** rows.
 
 </p>
 
-## Conclusion and future scope  <a id = "6"></a>
+## Future scope  <a id = "6"></a>
 <p align = "justify">
 
 </p>
@@ -92,7 +109,3 @@ And the dataset used in this model contains **200** rows.
 
 </p>
 
-## Appendix <a id = "9"></a>
-<p align = "justify">
-
-</p>

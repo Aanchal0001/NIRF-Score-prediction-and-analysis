@@ -13,7 +13,7 @@ An efficient web app for NIRF score prediction.
 * [Proposed approach and model](#4)
 * [Result and Analysis](#5)
 * [Future scope](#6)
-* [Deployment](#7)
+* [How to use and install the project](#7)
 * [Reference](#8)
 
 
@@ -115,8 +115,15 @@ The steps of building the project involves :
 
 </p>
 
-## Deployment <a id = "7"></a>
+## How to use and install the project <a id = "7"></a>
 <p align = "justify">
+
+1.  Ensure your system has anaconda or any python environment.
+2.  Ensure the python environment must include required libraries - **Tensorflow,Keras,Numpy,Pandas,Streamlit.**
+3.  Download the folder- **main and dataset** (csv file)
+3.  Open the anaconda command prompt
+4.  Run the command to reach where app.py is located: **cd** \<path\>
+5.  Run the following command to run the webapp: **streamlit run app.py**
 
 </p>
 
